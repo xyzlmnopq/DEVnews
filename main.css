@@ -1,0 +1,61 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+html{
+	height: 100%;
+}
+
+.content-1
+{
+    padding-top: 45%;
+    padding-bottom: 45%;
+
+}
+img{
+    padding-top: 0;
+}
+hr{
+    width: 1600px;
+	
+}
+.navbar-brand{
+margin-left:12%;    
+}
+.navbar{
+    padding-top: 10px;
+    padding-bottom:0;
+}
+.btn{
+    background-color: white;
+    border: 1px solid grey;
+}
+h3{
+    font-size: 30px;
+}
+h1{
+    font-weight: 600;
+}
+#tagline{
+    position:center;
+    padding-top: 45%
+}
+.bg{
+    background: url(1_E0AtatuxAJ1saRXZaF8BlQ.png);
+    margin-top: 20px;
+    color: white;
+    background-size: cover;
+    height:740px;
+    position: center;
+    width: 1680px;
+    border:none;
+}
+#signupbtn{
+    border: none;
+}
+#form{
+    margin-top: 15%;
+    margin-bottom: 15%;
+}
+.btn btn-default{
+    padding-top: 20px;
+}
